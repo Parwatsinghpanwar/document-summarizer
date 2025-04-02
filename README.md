@@ -1,4 +1,4 @@
-
+# PDF summarizer 
 # Document Summarizer
 
 The Document Summarizer leverages Hugging Face’s **facebook/bart-large-cnn** model to simplify the process of summarizing lengthy documents. This app allows users to upload **PDF** or **plain text** files and generates concise, human-readable summaries. It combines a **ReactJS (Vite)** frontend with a **Flask** backend for efficient processing.
